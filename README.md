@@ -1,5 +1,6 @@
 # Connect 4 Refactored
-+ Refactored code to generate a class for game and multiple players while implementing the use of `this` in context
++ Refactored code to generate classes for game and multiple players
++ Implemented the use of `this` and `bind` methods
 + Added extra features such as
   + Added relevant JS documentation
   + Initialized Player objects to track turns instead of an integer.
