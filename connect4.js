@@ -58,8 +58,8 @@ class Game {
     return null;
   }
   /** Update DOM to place piece into HTML board
-  * @param {Number} x Horizontal spot on board to locate which spot to place a piece in
   * @param {Number} y Vertical (Horizontal) spot on board to locate which spot to place a piece in
+  * @param {Number} x Horizontal spot on board to locate which spot to place a piece in
   * @return {void}
   */
   placeInTable(y, x) {
